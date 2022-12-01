@@ -7,7 +7,6 @@ This week, we will learn the command line, which is a way of interacting with yo
 - Curriculum for this session:
     - DHRI: ["Introduction to the Command Line"](https://github.com/DHRI-Curriculum/command-line)
 - Assignments (due by 10am on the day of class): 
-    - [Create a Github Account](https://www.wikihow.com/Create-an-Account-on-GitHub) and complete this dummy assignment so I can add you to our Github classroom
     - Install the following software packages and upload your screenshots to this assignment:
         - Visual Studio Code ([macOS](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/macos/) / [Windows](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/windows/))
         - Git and Gitbash ([macOS](https://curriculum.dhinstitutes.org/installations/git-and-git-bash/macos/) / [Windows](https://curriculum.dhinstitutes.org/installations/git-and-git-bash/windows/))
