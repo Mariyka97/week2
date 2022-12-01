@@ -7,7 +7,7 @@ This week, we will learn the command line, which is a way of interacting with yo
 - Curriculum for this session:
     - DHRI: ["Introduction to the Command Line"](https://github.com/DHRI-Curriculum/command-line)
 - Assignments (due by 10am on the day of class): 
-    - Install the following software packages and upload your screenshots to this assignment:
+    - Install the following software packages and upload your screenshots to [this assignment](https://classroom.github.com/a/pRHokhmi):
         - Visual Studio Code ([macOS](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/macos/) / [Windows](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/windows/))
         - Git and Gitbash ([macOS](https://curriculum.dhinstitutes.org/installations/git-and-git-bash/macos/) / [Windows](https://curriculum.dhinstitutes.org/installations/git-and-git-bash/windows/))
         - Python and Anaconda ([macOS](https://curriculum.dhinstitutes.org/installations/python-and-anaconda/macos/)/[Windows](https://curriculum.dhinstitutes.org/installations/python-and-anaconda/windows/))
