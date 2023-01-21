@@ -1,13 +1,14 @@
 # Week 2: The Command Line
+
 This week, we will learn the command line, which is a way of interacting with your computer without using your mousepad to complete tasks. For example, instead of manually creating a new folder, we will learn how to do that by typing a command. Knowing how to use the command line is an important first step towards learning how to program in Python. 
 
 - Topics covered:
     - What is the command line and why is it relevant to Python?
     - Using git bash (Windows) or terminal (macOS) to perform basic computer commands such as creating a new folder or text file.
 - Curriculum for this session:
-    - DHRI: ["Introduction to the Command Line"](https://github.com/DHRI-Curriculum/command-line)
+    - DHRI: ["Introduction to the Command Line"](https://gc-dri.github.io/Dhrift-GC/workshops/command-line/)
 - Assignments (due by 10am on the day of class): 
-    - Install the following software packages and upload your screenshots to [this assignment](https://classroom.github.com/a/pRHokhmi) (see [here](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) for instructions on uploading files to GitHub):
+    - Install the following software packages and upload your screenshots to [this assignment](https://classroom.github.com/a/CQ-gPy_R)  (see [here](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) for instructions on uploading files to GitHub):
         - Visual Studio Code ([macOS](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/macos/) / [Windows](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/windows/))
         - Git and Gitbash ([macOS](https://curriculum.dhinstitutes.org/installations/git-and-git-bash/macos/) / [Windows](https://curriculum.dhinstitutes.org/installations/git-and-git-bash/windows/))
         - Python and Anaconda ([macOS](https://curriculum.dhinstitutes.org/installations/python-and-anaconda/macos/)/[Windows](https://curriculum.dhinstitutes.org/installations/python-and-anaconda/windows/))
